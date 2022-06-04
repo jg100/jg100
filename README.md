@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3> :man: &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on: Python scripts to increases efficiency at a small Bay Area practice
+- 🔭 I’m currently working on: Python efficiency and automation scripts.
 - :heart: My favorite language: Java
 - 🌱 I’m currently learning: React/MERN, SpringBoot and JPA
 - 🔭 Interests: Intelectual Property
