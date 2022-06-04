@@ -17,15 +17,12 @@ Here are some ideas to get you started:
 ![Welcome Banner](banner.gif)
 
 
-<img align="left" height="270px" alt="hello_world" src="pic.png" />
+<h3> :man: &nbsp;About Me </h3>
 
-<h3> :woman: &nbsp;About Me </h3>
-
-- 🔭 I’m currently working on: an NLP sentiment analysis project
+- 🔭 I’m currently working on: Python scripts to increases efficiency at a small Bay Area practice
 - :heart: My favorite language: Java
-- 🌱 I’m currently learning: React
-- 👯 I’m always looking to collaborate with: scientist from any field
-- 💜 Interests: Intelectual Property
+- 🌱 I’m currently learning: React/MERN, SpringBoot and JPA
+- 🔭 Interests: Intelectual Property
 - ⚡ Fun fact: My grandma once hit me with her car... love you grandma <3
 
 <br/>
