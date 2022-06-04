@@ -74,6 +74,3 @@ Here are some ideas to get you started:
 
 
 -----
-Credit: [Jiji C.](https://github.com/DataOnATangent)
-
-Last edited on: 06/03/2021
