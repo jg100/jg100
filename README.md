@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - :space_invader:
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-316192?style=for-the-badge&logo=java&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
