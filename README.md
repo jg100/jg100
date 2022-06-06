@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=aws&logoColor=white)
-  1[MongoDB](https://img.shields.io/badge/mongoDB-10000?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/mongoDB-10000?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - 💻 &nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
