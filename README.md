@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
-<p align="center">
+<p align="left">
 <br>
 <a href="https://www.linkedin.com/in/joel-giannelli-6909086b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <br>
  </p>
  
- <p align="center">
+ <p align="left">
 <a href="mailto:jgiannelli13@gmail.com?subject=i miss u"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" allign="center" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
