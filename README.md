@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   ![MongoDB](https://img.shields.io/badge/mongoDB-10000?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - 💻 &nbsp;
-  ![MacOS](https://img.shields.io/badge/Mac-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![MacOS](https://img.shields.io/badge/Mac-0078D6?style=for-the-badge&logo=mac&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 
