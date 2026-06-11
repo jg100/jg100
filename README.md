@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Python efficiency and automation scripts.
 - :heart: My favorite language: Java
-- 🌱 I’m currently learning: React/MERN, SpringBoot and JPA
+- 🌱 I’m currently learning: Implmenting my own nueral network
 - 🔭 Interests: Intelectual Property
 - ⚡ Fun fact: My grandma once hit me with her car... love you grandma <3
 
